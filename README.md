@@ -1,10 +1,10 @@
 To install the package, run:
 npm install react-splunk-log
 
-To use the package
+To use the package :
 const reactSplunkLog = require('react-splunk-log');
 
-Configure Splunk HEC
+Configure Splunk HEC:
 Before using the function, you need to configure your Splunk HEC settings:
 splunkToken: Your Splunk HEC token.
 splunkHost: Your Splunk host address.
